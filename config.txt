@@ -1,6 +1,6 @@
-token=
-owner=  
-prefix= 
-game= Type help
+token=NjA3MDEzOTk5MTkxNzg1NDgz.XUTcAw.mL04Bmx7EgZNgTGXNB5n_OxsL_k
+owner=558365557133541406
+prefix=Fk
+game=JustEatShit.
 stayinchannel=true
-songinstatus=true
+songinstatus=fules
